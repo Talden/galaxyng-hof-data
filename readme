@@ -1,0 +1,5 @@
+galaxyng.sql.gz is an sql data dump from the Hall of Fame mysql database on SourceForge.
+
+hofnew.tgz contains information about games that was entered into the Hall of Fame database on SourceForge.  New games should be included in this data file.
+
+hofold.tgz contains the entire old Hall of Fame, coded by Frans Slothouber and maintained for years by Luis Arocha Hernandez.
